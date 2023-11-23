@@ -1,4 +1,4 @@
-Hi 👋, I'm Manisha Basra
+Hi 👋, I'm Lokesh Nandakumar
 A passionate FrontEnd Engineer from India
 
 - 👀 I’m working as Senior FrontEnd Engineer
