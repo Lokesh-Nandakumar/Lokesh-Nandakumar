@@ -1,5 +1,4 @@
 Hi 👋, I'm Lokesh Nandakumar
-A passionate FrontEnd Engineer from India
 
 - 👀 I’m working as Senior FrontEnd Engineer
 - 🌱 I’m currently learning programming and web developement
